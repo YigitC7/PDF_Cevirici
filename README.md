@@ -34,4 +34,4 @@ pip install deep-translator
 
 <br>
 
-> Bu program Yapay Zeka ile hazırlanmıştır. Normalde programlarımı Yapay Zeka ile hazırlamam. Bir seferilik ¯\_(ツ)_/¯
+> Bu program Yapay Zeka ile hazırlanmıştır. Normalde programlarımı Yapay Zeka ile hazırlamam. Ama bir seferilik ¯\_(ツ)_/¯
