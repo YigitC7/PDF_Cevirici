@@ -29,4 +29,6 @@ sudo apt install poppler-utils
 pip install deep-translator
 ```
 
+**GPL-3.0 Lisansı** altında bir proje yayınlamak istiyorsanız, GitHub deposunda ayrıca bir **LICENSE** dosyası oluşturup oraya **GPL-3.0** lisansını eklemeyi unutmayın.
+
 > Bu program Yapay Zeka ile hazırlanmıştır. Normalde programlarımı Yapay Zeka ile hazırlamam. Bir seferilik ¯\_(ツ)_/¯
