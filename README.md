@@ -1,6 +1,6 @@
 <div align="center">
   
-![image](https://github.com/YigitC7/YigitC7/pdf.png)
+![image](https://github.com/YigitC7/YigitC7/blob/main/.github/workflows/pdf.png?raw=true)
 
 </div>
 
