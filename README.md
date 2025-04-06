@@ -1,6 +1,6 @@
 # PDF Çevirici - İngilizce'den Türkçe'ye
 
-Bu proje, bir PDF dosyasındaki metinleri **İngilizce'den Türkçe'ye** çevirmek için geliştirilmiş basit bir GUI (Grafiksel Kullanıcı Arayüzü) uygulamasıdır. PDF dosyasının içeriği, sayfa sayfa ve parça parça çevrilir, çevirilen metin her sayfa için birleştirilir ve kullanıcıya sunulur. 
+Bu proje, bir PDF dosyasındaki metinleri **İngilizce'den Türkçe'ye** çevirmek için geliştirilmiş basit bir GUI (Grafiksel Kullanıcı Arayüzü) uygulamasıdır. PDF dosyasının içeriği, sayfa sayfa ve parça parça çevrilir, çevirilen metin her sayfa için birleştirilir ve kullanıcıya sunulur. Bu program Yapay Zeka ile hazırlanmıştır.
 
 ## Özellikler
 
