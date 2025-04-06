@@ -1,6 +1,6 @@
 # PDF Çevirici - İngilizce'den Türkçe'ye
 
-Bu proje, bir PDF dosyasındaki metinleri **İngilizce'den Türkçe'ye** çevirmek için geliştirilmiş basit bir GUI (Grafiksel Kullanıcı Arayüzü) uygulamasıdır. PDF dosyasının içeriği, sayfa sayfa ve parça parça çevrilir, çevirilen metin her sayfa için birleştirilir ve kullanıcıya sunulur. Bu program Yapay Zeka ile hazırlanmıştır.
+Bu proje, bir PDF dosyasındaki metinleri **İngilizce'den Türkçe'ye** çevirmek için geliştirilmiş basit bir GUI (Grafiksel Kullanıcı Arayüzü) uygulamasıdır. PDF dosyasının içeriği, sayfa sayfa ve parça parça çevrilir, çevirilen metin her sayfa için birleştirilir ve kullanıcıya sunulur.
 
 ## Özellikler
 
@@ -27,3 +27,6 @@ sudo apt install poppler-utils
 
 # Python kütüphanelerini yükle
 pip install deep-translator
+```
+
+> Bu program Yapay Zeka ile hazırlanmıştır. Normalde programlarımı Yapay Zeka ile hazırlamam. Bir seferilik ¯\_(ツ)_/¯
